@@ -9,8 +9,7 @@
 
 
 ### 效果图  
-![Image of 微信截图](https://raw.githubusercontent.com/why168/BaseView/master/WX.png)
-![Image of BaseView手写效果](https://raw.githubusercontent.com/why168/BaseView/master/BaseView.png)
+![Image of ](https://raw.githubusercontent.com/why168/BaseView/master/WX.png)
 
 
 
